@@ -1,0 +1,11 @@
+sentiment.py->review extract.py->set_making.py->review_making.py
+
+
+Give Ratings 
+Society Management Rating: Assign a rating (out of 5) for society management. 
+Green Area Rating: Assign a rating (out of 5) for the green areas and parks. 
+Amenities Rating: Assign a rating (out of 5) for the society's amenities. 
+Connectivity Rating: Assign a rating (out of 5) for society connectivity and commute. 
+Construction Rating: Assign a rating (out of 5) for society construction quality.
+Use whole numbers for all ratings (1-5). 
+If a specific rating cannot be determined from the reviews, use "5" 
